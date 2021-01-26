@@ -14,10 +14,10 @@
 $
 
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1611632920,,"wq!"
 :q!
 |2,0,1611630788,,"q!"
-:wq!
-|2,0,1611558104,,"wq!"
 :wq1
 |2,0,1611558087,,"wq1"
 :q
@@ -38,34 +38,120 @@ $
 # Registers:
 
 # File marks:
-'0  8  0  ~/gitpractice/practice
-|4,48,8,0,1611630788,"~/gitpractice/practice"
-'1  8  0  ~/gitpractice/maven-profiles
-|4,49,8,0,1611630606,"~/gitpractice/maven-profiles"
-'2  2  0  ~/gitpractice/file2
-|4,50,2,0,1611630479,"~/gitpractice/file2"
-'3  2  18  ~/gitpractice/file1
-|4,51,2,18,1611630464,"~/gitpractice/file1"
-'4  1  13  ~/aws/orange
-|4,52,1,13,1611558104,"~/aws/orange"
-'5  3  14  ~/aaaa
-|4,53,3,14,1611556748,"~/aaaa"
-'6  1  0  ~/dddd
-|4,54,1,0,1611556610,"~/dddd"
-'7  1  33  ~/cccc
-|4,55,1,33,1611556547,"~/cccc"
-'8  1  0  ~/bbbb
-|4,56,1,0,1611556475,"~/bbbb"
-'9  1  40  ~/aaaa
-|4,57,1,40,1611556422,"~/aaaa"
+'0  4  0  ~/sampleprogram.txt
+|4,48,4,0,1611632920,"~/sampleprogram.txt"
+'1  1  26  ~/computer.txt
+|4,49,1,26,1611632139,"~/computer.txt"
+'2  1  25  ~/laptop.txt
+|4,50,1,25,1611632121,"~/laptop.txt"
+'3  8  0  ~/gitpractice/practice
+|4,51,8,0,1611630788,"~/gitpractice/practice"
+'4  8  0  ~/gitpractice/maven-profiles
+|4,52,8,0,1611630606,"~/gitpractice/maven-profiles"
+'5  2  0  ~/gitpractice/file2
+|4,53,2,0,1611630479,"~/gitpractice/file2"
+'6  2  18  ~/gitpractice/file1
+|4,54,2,18,1611630464,"~/gitpractice/file1"
+'7  1  13  ~/aws/orange
+|4,55,1,13,1611558104,"~/aws/orange"
+'8  3  14  ~/aaaa
+|4,56,3,14,1611556748,"~/aaaa"
+'9  1  0  ~/dddd
+|4,57,1,0,1611556610,"~/dddd"
 
 # Jumplist (newest first):
+-'  4  0  ~/sampleprogram.txt
+|4,39,4,0,1611632920,"~/sampleprogram.txt"
+-'  1  0  ~/sampleprogram.txt
+|4,39,1,0,1611632881,"~/sampleprogram.txt"
+-'  1  26  ~/computer.txt
+|4,39,1,26,1611632139,"~/computer.txt"
+-'  1  26  ~/computer.txt
+|4,39,1,26,1611632139,"~/computer.txt"
+-'  1  25  ~/laptop.txt
+|4,39,1,25,1611632121,"~/laptop.txt"
+-'  1  25  ~/laptop.txt
+|4,39,1,25,1611632121,"~/laptop.txt"
+-'  1  25  ~/laptop.txt
+|4,39,1,25,1611632121,"~/laptop.txt"
+-'  1  25  ~/laptop.txt
+|4,39,1,25,1611632121,"~/laptop.txt"
+-'  8  0  ~/gitpractice/practice
+|4,39,8,0,1611630788,"~/gitpractice/practice"
+-'  8  0  ~/gitpractice/practice
+|4,39,8,0,1611630788,"~/gitpractice/practice"
+-'  8  0  ~/gitpractice/practice
+|4,39,8,0,1611630788,"~/gitpractice/practice"
+-'  8  0  ~/gitpractice/practice
+|4,39,8,0,1611630788,"~/gitpractice/practice"
+-'  8  0  ~/gitpractice/practice
+|4,39,8,0,1611630788,"~/gitpractice/practice"
+-'  8  0  ~/gitpractice/practice
+|4,39,8,0,1611630788,"~/gitpractice/practice"
+-'  8  0  ~/gitpractice/practice
+|4,39,8,0,1611630788,"~/gitpractice/practice"
 -'  8  0  ~/gitpractice/practice
 |4,39,8,0,1611630788,"~/gitpractice/practice"
 -'  8  0  ~/gitpractice/maven-profiles
 |4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
 -'  8  0  ~/gitpractice/maven-profiles
 |4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
+-'  8  0  ~/gitpractice/maven-profiles
+|4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
+-'  8  0  ~/gitpractice/maven-profiles
+|4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
+-'  8  0  ~/gitpractice/maven-profiles
+|4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
+-'  8  0  ~/gitpractice/maven-profiles
+|4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
+-'  8  0  ~/gitpractice/maven-profiles
+|4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
+-'  8  0  ~/gitpractice/maven-profiles
+|4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
+-'  8  0  ~/gitpractice/maven-profiles
+|4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
+-'  8  0  ~/gitpractice/maven-profiles
+|4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
+-'  8  0  ~/gitpractice/maven-profiles
+|4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
+-'  8  0  ~/gitpractice/maven-profiles
+|4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
+-'  8  0  ~/gitpractice/maven-profiles
+|4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
+-'  8  0  ~/gitpractice/maven-profiles
+|4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
+-'  8  0  ~/gitpractice/maven-profiles
+|4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
+-'  8  0  ~/gitpractice/maven-profiles
+|4,39,8,0,1611630606,"~/gitpractice/maven-profiles"
+-'  1  0  ~/gitpractice/maven-profiles
+|4,39,1,0,1611630592,"~/gitpractice/maven-profiles"
+-'  1  0  ~/gitpractice/maven-profiles
+|4,39,1,0,1611630592,"~/gitpractice/maven-profiles"
+-'  1  0  ~/gitpractice/maven-profiles
+|4,39,1,0,1611630592,"~/gitpractice/maven-profiles"
+-'  1  0  ~/gitpractice/maven-profiles
+|4,39,1,0,1611630592,"~/gitpractice/maven-profiles"
+-'  1  0  ~/gitpractice/maven-profiles
+|4,39,1,0,1611630592,"~/gitpractice/maven-profiles"
+-'  1  0  ~/gitpractice/maven-profiles
+|4,39,1,0,1611630592,"~/gitpractice/maven-profiles"
+-'  1  0  ~/gitpractice/maven-profiles
+|4,39,1,0,1611630592,"~/gitpractice/maven-profiles"
+-'  1  0  ~/gitpractice/maven-profiles
+|4,39,1,0,1611630592,"~/gitpractice/maven-profiles"
+-'  1  0  ~/gitpractice/maven-profiles
+|4,39,1,0,1611630592,"~/gitpractice/maven-profiles"
+-'  1  0  ~/gitpractice/maven-profiles
+|4,39,1,0,1611630592,"~/gitpractice/maven-profiles"
+-'  1  0  ~/gitpractice/maven-profiles
+|4,39,1,0,1611630592,"~/gitpractice/maven-profiles"
+-'  1  0  ~/gitpractice/maven-profiles
+|4,39,1,0,1611630592,"~/gitpractice/maven-profiles"
+-'  1  0  ~/gitpractice/maven-profiles
+|4,39,1,0,1611630592,"~/gitpractice/maven-profiles"
+-'  1  0  ~/gitpractice/maven-profiles
+|4,39,1,0,1611630592,"~/gitpractice/maven-profiles"
 -'  1  0  ~/gitpractice/maven-profiles
 |4,39,1,0,1611630592,"~/gitpractice/maven-profiles"
 -'  1  0  ~/gitpractice/maven-profiles
@@ -78,6 +164,62 @@ $
 |4,39,2,0,1611630479,"~/gitpractice/file2"
 -'  2  0  ~/gitpractice/file2
 |4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
+-'  2  0  ~/gitpractice/file2
+|4,39,2,0,1611630479,"~/gitpractice/file2"
 -'  2  18  ~/gitpractice/file1
 |4,39,2,18,1611630464,"~/gitpractice/file1"
 -'  2  18  ~/gitpractice/file1
@@ -94,172 +236,53 @@ $
 |4,39,2,18,1611630464,"~/gitpractice/file1"
 -'  2  18  ~/gitpractice/file1
 |4,39,2,18,1611630464,"~/gitpractice/file1"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  1  13  ~/aws/orange
-|4,39,1,13,1611558104,"~/aws/orange"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  3  14  ~/aaaa
-|4,39,3,14,1611556748,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  40  ~/aaaa
-|4,39,1,40,1611556711,"~/aaaa"
--'  1  0  ~/dddd
-|4,39,1,0,1611556610,"~/dddd"
--'  1  0  ~/dddd
-|4,39,1,0,1611556610,"~/dddd"
+-'  2  18  ~/gitpractice/file1
+|4,39,2,18,1611630464,"~/gitpractice/file1"
+-'  2  18  ~/gitpractice/file1
+|4,39,2,18,1611630464,"~/gitpractice/file1"
+-'  2  18  ~/gitpractice/file1
+|4,39,2,18,1611630464,"~/gitpractice/file1"
+-'  2  18  ~/gitpractice/file1
+|4,39,2,18,1611630464,"~/gitpractice/file1"
+-'  2  18  ~/gitpractice/file1
+|4,39,2,18,1611630464,"~/gitpractice/file1"
+-'  2  18  ~/gitpractice/file1
+|4,39,2,18,1611630464,"~/gitpractice/file1"
+-'  2  18  ~/gitpractice/file1
+|4,39,2,18,1611630464,"~/gitpractice/file1"
+-'  2  18  ~/gitpractice/file1
+|4,39,2,18,1611630464,"~/gitpractice/file1"
+-'  2  18  ~/gitpractice/file1
+|4,39,2,18,1611630464,"~/gitpractice/file1"
+-'  2  18  ~/gitpractice/file1
+|4,39,2,18,1611630464,"~/gitpractice/file1"
+-'  2  18  ~/gitpractice/file1
+|4,39,2,18,1611630464,"~/gitpractice/file1"
+-'  2  18  ~/gitpractice/file1
+|4,39,2,18,1611630464,"~/gitpractice/file1"
 
 # History of marks within files (newest to oldest):
+
+> ~/sampleprogram.txt
+	*	1611632918	0
+	"	4	0
+	^	4	0
+	.	3	16
+	+	3	16
+
+> ~/computer.txt
+	*	1611632136	0
+	"	1	26
+	^	1	27
+	.	1	26
+	+	1	26
+
+> ~/laptop.txt
+	*	1611632119	0
+	"	1	25
+	^	1	26
+	.	1	25
+	+	1	25
 
 > ~/gitpractice/file2
 	*	1611630477	0
